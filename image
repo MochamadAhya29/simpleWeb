@@ -1,21 +1,9 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-	<title>This is a simple web </title>
-=======
-	<title></title>
-  <p>kamil sangatbaik dech<strong>kamil mil mil oioioi </strong>.</p>
-</head>
-
 <body>
-	this is a simple web that make with html only let's we fun learning html 
-	together
-
-	<p>&#128512;</p>
 
 <h2>Image Maps</h2>
-<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic</p>
+<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
 
 <img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
 
